@@ -1,4 +1,3 @@
-
 function winner(number) {
   return winningButton = Math.floor(Math.random() * number);
 }
