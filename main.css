@@ -27,7 +27,7 @@ button {
     margin: 1vh 50vh 1vh 90vh;
 }
 
-.one, .two  {
+.submitChoice, .restartGame  {
     background-color: rgba(0, 140, 255, 0.829);
     color: white;
     border-radius: 5px;
